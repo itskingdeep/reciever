@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "620346205464",
+    "firebase_url": "https://fir-connection-fd0c1-default-rtdb.firebaseio.com",
+    "project_id": "fir-connection-fd0c1",
+    "storage_bucket": "fir-connection-fd0c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620346205464:android:74fe29bae2ae0d5d1f2a6d",
+        "android_client_info": {
+          "package_name": "com.example.reciever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620346205464-8vqj6h5buvob7tn2madnuiaggquk1bk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2v7WIyi-8_b1jNslIIPBnvireN25M4gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620346205464-8vqj6h5buvob7tn2madnuiaggquk1bk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620346205464-dsmj109t0rfe28o7099j7hah519leu98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.senda"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620346205464:android:f7c882d267da79251f2a6d",
+        "android_client_info": {
+          "package_name": "com.example.senda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620346205464-8vqj6h5buvob7tn2madnuiaggquk1bk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2v7WIyi-8_b1jNslIIPBnvireN25M4gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620346205464-8vqj6h5buvob7tn2madnuiaggquk1bk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620346205464-dsmj109t0rfe28o7099j7hah519leu98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.senda"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620346205464:android:8e812039e6bfae621f2a6d",
+        "android_client_info": {
+          "package_name": "com.example.sendera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620346205464-8vqj6h5buvob7tn2madnuiaggquk1bk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2v7WIyi-8_b1jNslIIPBnvireN25M4gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620346205464-8vqj6h5buvob7tn2madnuiaggquk1bk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620346205464-dsmj109t0rfe28o7099j7hah519leu98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.senda"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620346205464:android:0470730f61dbba7b1f2a6d",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620346205464-8vqj6h5buvob7tn2madnuiaggquk1bk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2v7WIyi-8_b1jNslIIPBnvireN25M4gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620346205464-8vqj6h5buvob7tn2madnuiaggquk1bk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620346205464-dsmj109t0rfe28o7099j7hah519leu98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.senda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
